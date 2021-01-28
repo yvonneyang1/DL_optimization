@@ -1,7 +1,7 @@
 
 # Initialization
 
-Welcome to the first assignment of "Improving Deep Neural Networks". 
+This is the first assignment of "Improving Deep Neural Networks". 
 
 Training your neural network requires specifying an initial value of the weights. A well chosen initialization method will help learning.  
 
